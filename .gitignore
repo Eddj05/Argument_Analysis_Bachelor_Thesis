@@ -1,0 +1,13 @@
+data/
+__pycache__/
+*.pyc
+
+# model/checkpoints (VERY important for you)
+classifier/**/checkpoint-*/
+*.bin
+*.pt
+*.safetensors
+
+# OS / editor
+.DS_Store
+.vscode/

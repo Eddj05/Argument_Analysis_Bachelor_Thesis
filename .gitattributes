@@ -1,0 +1,2 @@
+# Force LF everywhere in repo (best practice for ML/code projects)
+* text=auto eol=lf
